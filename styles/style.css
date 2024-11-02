@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(223, 223, 118);
+}
+
+.text {
+    color: rgb(12, 152, 61);
+    font-size: 30px;
+}
+
+.text2 {
+    color: rgb(110, 28, 146);
+    font-size: 30px;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container h1 {
+    display: inline-block;
+    font-size: 35px;
+    color: rgb(12, 18, 187);
+    text-align: center;
+    border: thick solid rgb(30, 185, 13);
+    padding: 3px;
+}
